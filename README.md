@@ -1,2 +1,2 @@
-<img src="Untitled design.gif">
+<img src="">
 <h>calla</h>
