@@ -1,2 +1,2 @@
-<img src="README.gif">
+<img src="READ_ME.gif">
 
